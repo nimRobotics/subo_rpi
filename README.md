@@ -1,5 +1,7 @@
 # subo_rpi
+Beginer's tutorial for setting up ROS on RPi, communicating with the base PC and publishing the images from the RPi camera. 
 
+## Setting up RPi
 Flash the RPi microSD card with the image provided by Ubiquity Robotics <https://downloads.ubiquityrobotics.com/pi.html>.
 Once the RPi boots up it will create a WiFi access point named `ubiquityrobotXXXX`. Connect your PC with the access point. 
 
