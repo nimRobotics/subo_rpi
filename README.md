@@ -1,5 +1,8 @@
 # subo_rpi
-Beginer's tutorial for setting up ROS on RPi, communicating with the base PC and publishing the images from the RPi camera. 
+Beginner's tutorial for setting up ROS on RPi, communicating with the base PC and publishing the images from the RPi camera. 
+The tutorial consists of two parts i.e. RPi workspace and base PC workspace (to be followed in sequence):
+1. <https://github.com/nimRobotics/subo_rpi>
+2. <https://github.com/nimRobotics/subo_base>
 
 ## Setting up RPi
 Flash the RPi microSD card with the image provided by Ubiquity Robotics <https://downloads.ubiquityrobotics.com/pi.html>.
