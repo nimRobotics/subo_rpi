@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/subo_rpi/devel
+
+Name: bot_cntrl
+Description: Description of bot_cntrl
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ubuntu/subo_rpi/devel/lib 
+Requires: 

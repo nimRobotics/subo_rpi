@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ubuntu/subo_rpi/install/setup.sh
