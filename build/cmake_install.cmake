@@ -127,6 +127,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/ubuntu/subo_rpi/build/gtest/cmake_install.cmake")
   include("/home/ubuntu/subo_rpi/build/bot_cntrl/cmake_install.cmake")
+  include("/home/ubuntu/subo_rpi/build/raspicam_node/cmake_install.cmake")
 
 endif()
 

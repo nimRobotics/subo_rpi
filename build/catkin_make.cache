@@ -1,2 +1,2 @@
-bot_cntrl
+bot_cntrl:raspicam_node
 -DCATKIN_DEVEL_PREFIX=/home/ubuntu/subo_rpi/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/subo_rpi/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/subo_rpi/install
+
+Name: raspicam_node
+Description: Description of raspicam_node
+Version: 0.4.0
+Cflags: -I/home/ubuntu/subo_rpi/install/include
+Libs: -L/home/ubuntu/subo_rpi/install/lib 
+Requires: message_runtime std_msgs
