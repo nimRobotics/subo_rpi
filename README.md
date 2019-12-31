@@ -54,7 +54,7 @@ ubuntu@ubiquityrobot:~$ rostopic pub /test2/topic std_msgs/String 'Hello World f
 aakash@aakash:~$ rostopic echo /test/topic
 # publish from base PC
 aakash@aakash:~$ rostopic pub /test2/topic std_msgs/String 'Hello World from base PC' -r 1
-# test in base RPi
+# test in RPi
 ubuntu@ubiquityrobot:~$ rostopic echo /test/topic
 ```
 
